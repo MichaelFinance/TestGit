@@ -1,0 +1,6 @@
+# TestGit
+
+git clone http
+git status
+git add .
+git checkout .
