@@ -7,3 +7,6 @@ git checkout .
 git commit -m "....."
 git log 
 git push
+
+
+git push origin main
