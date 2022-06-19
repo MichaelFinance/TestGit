@@ -11,7 +11,7 @@ git push
 git push origin main
 git checkout -b shawn
 git diff
-git push --set-upstream origin shawn
+git push --set-upstream origin 
 git checkout branch
 git pull
 git merge main
