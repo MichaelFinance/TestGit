@@ -7,6 +7,9 @@ git checkout .
 git commit -m "....."
 git log 
 git push
-
-
 git push origin main
+git checkout -b shawn
+git diff
+git push --set-upstream origin shawn
+git checkout branch
+
